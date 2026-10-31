@@ -1,6 +1,6 @@
 Whiteboard
 
-file: whiteboard.html. It runs in any browser. No install, no build.
+file: index.html. It runs in any browser. No install, no build.
 
 Features
 Pen, highlighter, eraser, shapes, lines, arrows, text (bold and italic)

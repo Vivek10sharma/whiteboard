@@ -1,3 +1,5 @@
-cat > vercel.json <<'EOF'
-{ "rewrites": [{ "source": "/", "destination": "/whiteboard.html" }] }
-EOF
+{
+  "rewrites": [
+    { "source": "/", "destination": "/whiteboard.html" }
+  ]
+}
